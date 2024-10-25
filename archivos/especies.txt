@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Monte",
+        "poblacion": 10,
+        "reproduccion": 0.001,
+        "tipo_especie": "planta"
+    },
+    {
+        "nombre": "Jirafa",
+        "poblacion": 100,
+        "reproduccion": 0.5,
+        "tipo_especie": "herbivoro",
+        "capacidad_busqueda": 0.1,
+        "velocidad_digestion": 0.1,
+        "especie_alimento": "Monte"
+    },
+    {
+        "nombre": "Leon",
+        "poblacion": 20,
+        "reproduccion": 0.6,
+        "tipo_especie": "carnivoro",
+        "capacidad_busqueda": 0.1,
+        "velocidad_digestion": 0.1,
+        "tasa_efectividad_caza": 0.01,
+        "tasa_mortalidad_adicional": 0.1,
+        "especie_alimento": "Jirafa",
+        "alimentar_prioridad": 0.5
+    },
+    {
+        "nombre": "Pato",
+        "poblacion": 5,
+        "reproduccion": 1.0,
+        "tipo_especie": "herbivoro",
+        "capacidad_busqueda": 0.9,
+        "velocidad_digestion": 0.3,
+        "especie_alimento": "monte"
+    }
+]

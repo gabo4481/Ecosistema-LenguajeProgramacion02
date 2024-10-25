@@ -1,0 +1,16 @@
+--- Dia 1 ---
+La planta Monte se ha reproducido, nueva poblacion: 10
+El herbivoro Pato, se ha alimentado de la planta Monte redujo la poblacion en 8.
+El herbivoro Pato se ha reproducido, nueva poblacion: 10.
+El herbivoro Jirafa no ha encontrado suficiente alimento.
+El herbivoro Jirafa tuvo mortalidad, nueva poblacion: 90.
+El carnivoro Leon no ha encontrado suficiente alimento.
+El carnivoro Leon tuvo mortalidad, nueva poblacion: -22
+--- Dia 2 ---
+La planta Monte se ha reproducido, nueva poblacion: 8
+El herbivoro Pato, se ha alimentado de la planta Monte redujo la poblacion en 6.
+El herbivoro Pato se ha reproducido, nueva poblacion: 20.
+El herbivoro Jirafa no ha encontrado suficiente alimento.
+El herbivoro Jirafa tuvo mortalidad, nueva poblacion: 81.
+El carnivoro Leon no ha encontrado suficiente alimento.
+El carnivoro Leon tuvo mortalidad, nueva poblacion: 24
